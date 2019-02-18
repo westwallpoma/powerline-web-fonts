@@ -23,6 +23,7 @@ There are several `font-family` you can choose from (all Powerline-enabled):
   * `Ubuntu Mono` - [Ubuntu Mono derivative
     Powerline](https://github.com/powerline/fonts/tree/master/UbuntuMono)
   * `Monofur` - [Monofur for Powerline](https://github.com/powerline/fonts/tree/master/Monofur)
+  * `Cousine` - [Cousine for Powerline](https://github.com/powerline/fonts/tree/master/Cousine)
     
 
 See [Slant](http://www.slant.co/topics/67/~programming-fonts) if you don't know which to choose.
