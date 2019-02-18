@@ -26,6 +26,12 @@
 }
 
 @font-face {
+    font-family: "Cousine for Powerline";
+    src: local("Cousine"),
+         url(fonts/CousineForPowerline.woff2) format("woff2");
+}
+
+@font-face {
     font-family: "Inconsolata";
     src: local("Inconsolata for Powerline"),
          url(fonts/Inconsolata.woff2) format("woff2");
